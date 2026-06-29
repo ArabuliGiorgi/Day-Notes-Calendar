@@ -15,6 +15,10 @@ DayNotes Calendar წარმოადგენს Android პლატფო�
 
 ავტორი: გიორგი არაბული
 
+*=============================================================*
 <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/eac6d57d-2249-461d-a3b6-1607a0627f95" />
+*=============================================================*
 <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/1797d55d-3522-4aaf-93b6-fb9c67d0030b" />
+*=============================================================*
 <img width="1344" height="2992" alt="image" src="https://github.com/user-attachments/assets/3e9c8613-17e7-4f48-8352-1f22ab8a826a" />
+*=============================================================*
